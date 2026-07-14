@@ -1,0 +1,26 @@
+[
+  {
+    "timestamp": "2026-05-10 09:15:42",
+    "level": "INFO",
+    "source": "Auth",
+    "message": "User login successful for rose@example.com"
+  },
+  {
+    "timestamp": "2026-05-10 09:18:03",
+    "level": "WARNING",
+    "source": "Payments",
+    "message": "Retry triggered for delayed payment gateway response"
+  },
+  {
+    "timestamp": "2026-05-10 09:22:11",
+    "level": "ERROR",
+    "source": "Inventory",
+    "message": "Unable to reserve stock for product SKU-1042"
+  },
+  {
+    "timestamp": "2026-05-10 09:24:55",
+    "level": "INFO",
+    "source": "Reports",
+    "message": "Daily summary report generated successfully"
+  }
+]
